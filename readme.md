@@ -12,11 +12,11 @@ have to deal with SVN.
 
 Build it:
 
-    docker build -t svn .
+    docker build -t paulnechifor/svn-server .
 
 Run it:
 
-    docker run -p 3690:3690 --rm svn
+    docker run -p 3690:3690 --rm paulnechifor/svn-server
 
 This runs it in the foreground. Everything will be deleted once you stop it with
 Ctrl+C.
