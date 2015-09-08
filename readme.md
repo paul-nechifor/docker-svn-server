@@ -28,7 +28,7 @@ Test that it works with:
 
 If you need to preserve the repo, just map `/svn`:
 
-    docker run -p 3690:3690 -v $PWD/svn:/svn --rm svn
+    docker run -p 3690:3690 -v $PWD/svn:/svn --rm paulnechifor/svn-server
 
 ## License
 
