@@ -1,3 +1,7 @@
+# This repository has been moved to [gitlab.com/paul-nechifor/docker-svn-server](http://gitlab.com/paul-nechifor/docker-svn-server).
+
+Old readme:
+
 # Docker SVN Server
 
 Run a Subversion server for testing purposes.
